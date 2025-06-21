@@ -1,6 +1,6 @@
 # 🌐 ChangeIPLocal_HITECHCLOUD
 
-**ChangeIPLocal_HiTechCloud** is a Python-based tool designed to automate the process of updating local DNS records through the 123HOST API. This utility is particularly useful for users who need to programmatically manage their domain's DNS settings, such as updating A records to reflect changes in IP addresses.
+**ChangeIPLocal_HiTechCloud** is a Python-based tool designed to automate the process of updating local DNS records through the HITECHCLOUD API. This utility is particularly useful for users who need to programmatically manage their domain's DNS settings, such as updating A records to reflect changes in IP addresses.
 
 ---
 
