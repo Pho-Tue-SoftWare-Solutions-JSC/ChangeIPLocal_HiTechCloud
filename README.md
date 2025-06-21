@@ -40,7 +40,7 @@ Execute the script to update your DNS records:
 ```bash
 python main.py
 ```
-The script will interact with the 123HOST API to update the A record for your specified domain.
+The script will interact with the HITECHCLOUD API to update the A record for your specified domain.
 
 ## 📂 Project Structure
 - **main.py**: Main script to execute the DNS update process.
