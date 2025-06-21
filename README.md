@@ -28,7 +28,7 @@ pip install -r requirements.txt
 # 1. Clone the Repository
 ```bash
 git clone https://github.com/Pho-Tue-SoftWare-Solutions-JSC/ChangeIPLocal_HiTechCloud.git
-cd ChangeIPLocal_123HOST
+cd ChangeIPLocal_HITECHCLOUD
 ```
 # 2. Configure Your Settings
 Open main.py and set your access_token and domain:
